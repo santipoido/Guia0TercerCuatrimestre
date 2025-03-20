@@ -1,0 +1,7 @@
+Dentro de la carpeta Modelo van las implementaciones, osea los Objetos (clases)
+y las interfaces para esos objetos.
+
+Dentro de la carpeta Repositorio van las implementaciones, osea las clases envoltorias
+y las interfaces para esas clases envoltorias
+
+Dentro de UI va la interfaz de usuario (donde el usuario va a escribir, preguntar, etc)
